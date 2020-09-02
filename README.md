@@ -44,7 +44,7 @@ RUN_COUNT=1
 
 #### Clone
 
-Clone the repository with `git clone https://github.com/pmariglia/showdown.git`
+Clone the repository with `git clone https://github.com/USCPokebot/showdown.git`
 
 #### Install Requirements
 
@@ -58,7 +58,7 @@ Running with `python run.py` will start the bot with configurations specified by
 ### Running with Docker
 
 #### Clone the repository
-`git clone https://github.com/pmariglia/showdown.git`
+`git clone https://github.com/USCPokebot/showdown.git`
 
 #### Build the Docker image
 `docker build . -t showdown`
